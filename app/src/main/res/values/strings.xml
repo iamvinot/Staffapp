@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimDroidstaff</string>
+    <string name="app_name_caps">SIMDROID</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logout">Logout</string>
+    <string name="sel_date">Select Date</string>
+    <string name="dept_name">Department</string>
+    <string name="year">Year</string>
+    <string name="section">Section</string>
+    <string name="absentees">Absentees</string>
+    <string name="abs">Absentees numbers Separated with a dot</string>
+    <string name="upload_data">Upload Data</string>
+    <string name="slip">Sliptest 1</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="welcome">Welcome</string>
+    <string name="tab3_cia2">CIA 2 Marks</string>
+    <string name="tab3_model">Model Exam Marks</string>
+    <string name="tab3_univ">University Result</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="hint_staffid">Staff Id</string>
+    <string name="tab3_cia1">CIA 1 Marks</string>
+    <string name="tab3_edittext">Enter Student Register Number</string>
+    <string name="tab_3desc">Please scroll below to see Marks after Clicking On the Button</string>
+    <string-array name="dept_array">
+            <item>CSE</item>
+            <item>IT</item>
+            <item>EIE</item>
+            <item>CIVIL</item>
+            <item>ECE</item>
+            <item>IBT</item>
+            <item>MECH</item>
+            <item>AUTO</item>
+            <item>AERO</item>
+            <item>HAS</item>
+        </string-array>
+    <string-array name="year_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="section_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+    </string-array>
+
+
+
+</resources>
